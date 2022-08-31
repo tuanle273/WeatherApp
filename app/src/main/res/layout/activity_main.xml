@@ -26,7 +26,7 @@
         android:layout_marginTop="12dp"
         android:ems="10"
         android:inputType="textPersonName"
-        android:hint="City, State"
+        android:hint="City,State"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
